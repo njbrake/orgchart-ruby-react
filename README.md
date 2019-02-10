@@ -1,1 +1,1 @@
-# OrgChart Ruby On Rails React
+# orgchart-ruby-react
